@@ -1,4 +1,4 @@
-# pytgbot
+# PyTgBot
 
 Minimal Telegram Bot framework using `requests`.
 
